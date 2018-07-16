@@ -1,0 +1,1 @@
+tv = [ "spam", "eggs  ","   spam    ","     spam spam     ", "SPAM	", "Spam" ]
